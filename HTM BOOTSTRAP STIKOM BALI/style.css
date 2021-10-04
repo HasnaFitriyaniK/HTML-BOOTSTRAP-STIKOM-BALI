@@ -1,0 +1,36 @@
+.nav-link {
+    margin-right: 30px;
+}
+
+.lesson-wrapper {
+    height: 500px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+    text-align: center;
+  }
+
+  .lesson {
+    float: left;
+    width: 25%;
+  }
+  
+  .lesson-icon {
+    position: left;
+  }
+  
+  .lesson-icon p {
+    position: absolute;
+    top: 90px;
+    width: 100%;
+    color: white;
+  }
+
+  .txt-contents {
+        font-size: 20px;
+        width: 70%;
+        display: inline-block;
+        margin-top: 20px;
+        font-size: 15px;
+        color: #000000;
+  }
+  
